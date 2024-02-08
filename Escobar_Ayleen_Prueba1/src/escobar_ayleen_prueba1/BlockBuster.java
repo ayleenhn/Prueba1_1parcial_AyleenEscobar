@@ -9,6 +9,19 @@ public class BlockBuster {
         this.guardarObj = new ArrayList<>();
     }
     
+    public BlockBusterItem buscarItem(int codigo, String tipo) {
+        
+    }
     
+    public void agregarItem(int codigo, String nombre, String tipoItem) {
+        
+    }
     
+    public void Rentar(int codigo, String tipoItem, int dias) {
+        
+    }
+    
+    public void auditarMovieEstados() {
+        
+    }
 }
